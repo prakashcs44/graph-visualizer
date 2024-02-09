@@ -74,6 +74,7 @@ body {
 
 button:hover{
     background-color: rgb(94, 107, 107);
+    cursor: pointer;
 }
 
 .instruction{
